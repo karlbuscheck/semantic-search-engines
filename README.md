@@ -33,4 +33,4 @@ Along the way, I dug into embeddings -- how they work, how they're built, and ho
 
 ## Acknowledgements
 
-This all started with a notebook I was working on for my NLP class, taught by Professor Michele Samorani at Santa Clara University. Big thanks to him and the Leavey School of Business for helping spark the idea
+This all started with a notebook I was working on for my NLP class, taught by  Associate Professor Michele Samorani at Santa Clara University. Big thanks to him and the Leavey School of Business for helping spark the idea
