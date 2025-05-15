@@ -10,6 +10,8 @@ But the results told a different story.
 
 Along the way, I dug into embeddings -- how they work, how they're built, and how they power all sorts of AI tools, like ChatGPT, by turning language into numbers. Below is a roadmap of what this notebook covers.
 
+_Note: This repo includes a small sample (`fake_news_sample.csv`) of the original dataset for demonstration purposes._
+
 ## The Roadmap
 - Loading and using pretrained embeddings
 - A quick word on embeddings
