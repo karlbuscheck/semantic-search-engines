@@ -11,17 +11,17 @@ But the results told a different story.
 Along the way, I dug into embeddings -- how they work, how they're built, and how they power all sorts of AI tools, like ChatGPT, by turning language into numbers. Below is a roadmap of what this notebook covers.
 
 ## The Roadmap
--Loading and using pretrained embeddings
--A quick word on embeddings
--Preparing the corpus for semantic search
--Creating a TF-IDF search engine for baseline comparison
--Building a semantic search engine with pretrained embeddings
--Creating the document-features matrix
--Engineering the semantic search function
--Building a semantic search engine with custom-trained embeddings
--Creating (another) document-features matrix
--Re-engineering the semantic search function
--Comparing the search engines and crowning an unexpected winner
+- Loading and using pretrained embeddings
+- A quick word on embeddings
+- Preparing the corpus for semantic search
+- Creating a TF-IDF search engine for baseline comparison
+- Building a semantic search engine with pretrained embeddings
+- Creating the document-features matrix
+- Engineering the semantic search function
+- Building a semantic search engine with custom-trained embeddings
+- Creating (another) document-features matrix
+- Re-engineering the semantic search function
+- Comparing the search engines and crowning an unexpected winner
 
 ## Tools & Libraries Used
 - **Jupyter Notebook** — for interactive coding and exploration  
