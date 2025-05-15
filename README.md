@@ -2,7 +2,7 @@
 
 I love executing the final cell in a Jupyter Notebook and getting hit with a mic drop moment.
 
-That's exactly what happened at the end of this notebook while building a couple of semantic search engines that used embeddings to grasp the context and nuance of language. One engine relied on pretrained embeddings (word2vec-google-news-300), while the other was fully customized, trained from scratch on my own dataset.
+That's exactly what happened at the end of this notebook while building a couple of semantic search engines that used embeddings to grasp the context and nuance of language. One engine relied on pretrained embeddings `(word2vec-google-news-300)`, while the other was fully customized, trained from scratch on my own dataset.
 
 Intuitively, I thought I knew which one would win.
 
