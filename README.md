@@ -35,4 +35,4 @@ _Note: This repo includes a small sample (`fake_news_sample.csv`) for demo purpo
 
 ## Acknowledgements
 
-This all started with a notebook I was working on for my NLP class, taught by  Associate Professor Michele Samorani at Santa Clara University. Big thanks to him and the Leavey School of Business for helping spark the idea
+This all started with a notebook I was working on for my NLP class, taught by  Associate Professor Michele Samorani at Santa Clara University. Big thanks to him and the Leavey School of Business for helping spark the idea.
